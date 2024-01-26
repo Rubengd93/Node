@@ -1,0 +1,12 @@
+{
+  "name": "dia1",
+  "version": "1.0.0",
+  "description": "Introduccion a Backend",
+  "main": "retostema1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ruben Vera",
+  "license": "ISC",
+  "keywords": []
+}
